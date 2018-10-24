@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab9</string>
+    <string name="preferences">userPref</string>
+    <string name="string_el1">userStringVal1</string>
+    <string name="string_el2">userStringVal2</string>
+    <string name="int_el">userIntVal1</string>
+</resources>
